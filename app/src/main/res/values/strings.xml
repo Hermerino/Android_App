@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="CompararTexto"/>
+    <string name="ingresar_texto_1">Ingresar Texto 1</string>
+    <string name="ingresar_texto_2">Ingresar Texto 2</string>
+    <string name="comparar">Comparar</string>
+    <string name="CompareText" />
+    <string name="ingrese_texto_2">Ingrese texto 2</string>
+    <string name="Comparar">Comparar</string>
+    <string name="ingrese_texto_en_ambos_campos_y_pulse_el_boton_para_compararlos">Ingrese texto en ambos campos y pulse el boton para compararlos</string>
+    <string name="ingrese_texto_1">Ingrese texto 1</string>
+    <string name="inserte_texto_1">Inserte texto 1</string>
+</resources>
