@@ -31,13 +31,13 @@ import androidx.appcompat.app.AppCompatActivity
 
           val text1 = text1
           val text2  = text2
-          var tview1 : TextView = tview1
+          val tview1 : TextView = tview1
           bot1.setOnClickListener{
 
 
 
-            var text1 = text1.text.toString()
-            var text2 = text2.text.toString()
+            val text1 = text1.text.toString()
+            val text2 = text2.text.toString()
               tview1.text ="Escriba texto en ambos campos y pulse el boton paea comparar"
 
 
